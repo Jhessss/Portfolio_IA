@@ -63,7 +63,7 @@ Embora a IA tenha o potencial de trazer inúmeros benefícios, como aumento da e
 
 No entanto, muitos especialistas argumentam que, se utilizada de forma responsável e ética, a IA pode ser uma força positiva para a sociedade. Para garantir que a IA seja utilizada de forma segura e eficaz, é importante que haja regulamentações adequadas e investimentos em pesquisa e desenvolvimento de tecnologias avançadas. 
 
-Aqui está um link para um artigo interessante sobre o estado da arte, benefícios e riscos da inteligência artificial, da revista Forbes:
+Abaixo está um link para um artigo interessante sobre o estado da arte, benefícios e riscos da inteligência artificial, da revista Forbes:
 
 [Artigo da Revista Forbes: The current state of ai how it's being used and what to expect next](https://www.forbes.com/sites/forbestechcouncil/2022/04/21/the-current-state-of-ai-how-its-being-used-and-what-to-expect-next/?sh=7bc2cf8386d1)
 
