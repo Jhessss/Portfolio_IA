@@ -20,7 +20,7 @@ Nesta parte do portfólio, iremos explorar alguns dos principais aspectos da IA,
 
 ## Apresentação do conteúdo
 
-🔵 <span style="color: blue;">O que é Inteligência Artificial?</span>
+🔵 O que é Inteligência Artificial?
 
 Inteligência Artificial (IA) é um campo de estudo que se concentra no desenvolvimento de sistemas capazes de realizar tarefas que, tradicionalmente, exigem inteligência humana, como o reconhecimento de padrões, a tomada de decisões e o processamento de linguagem natural. Embora a IA possa ser baseada em modelos que visam reproduzir a performance humana, ela também pode ser racional e superar a capacidade humana em certas tarefas.
 
